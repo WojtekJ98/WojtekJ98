@@ -10,11 +10,21 @@ I am an aspiring Junior Front-End Developer with a passion for creating user-fri
 Run Boy E-commerce app which is an e-commerce application that consists of two components. One for database management. In it you can add new products, edit products already added to the database or create a product category with custom properties.  The other is already front-end part of the store, where the user can view products and filter them by categories. In addition, user can create an account and log in. After logging in, the user can add products to the shopping cart or to favorites and go to the order that Stripe handles. The user can see his orders in his account page.
 
 <h2>Run Boy Panel:</h2>
-    - <a href='https://github.com/WojtekJ98/Run-Boy-Panel'>Git Code</a>
-    - <a href='https://run-boy-panel.vercel.app'>Live app</a>
+<ul>
+    <li><a href='https://github.com/WojtekJ98/Run-Boy-Panel'>Git Code</a></li>
+    <li><a href='https://run-boy-panel.vercel.app'>Live app</a>
+</li>
+</ul>
 <h2>Run Boy Front:</h2>
-    - <a href='https://github.com/WojtekJ98/Run-Boy-Front'>Git Code</a>
-    - <a href='https://run-boy-front.vercel.app'>Live app</a>
+<ul>
+    <li><a href='https://github.com/WojtekJ98/Run-Boy-Front'>Git Code</a></li>
+    <li><a href='https://run-boy-front.vercel.app'>Live app</a></li>
+</ul>
+
+
+
+<!--     - <a href='https://github.com/WojtekJ98/Run-Boy-Front'>Git Code</a>
+    - <a href='https://run-boy-front.vercel.app'>Live app</a> -->
 
 <!--
 **WojtekJ98/WojtekJ98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
