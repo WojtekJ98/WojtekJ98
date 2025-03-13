@@ -23,27 +23,27 @@ Run Boy E-commerce app which is an e-commerce application that consists of two c
 </ul>
 
 <h1>Plan&Do</h1>
-Plan&Do is a task management application that allows users to create accounts, log in, and manage their tasks efficiently. The app is connected to a MongoDB database, ensuring that all boards, columns, tasks, and subtasks are assigned to the user's account.
+Plan&Do is a task management application that allows users to create accounts, log in, and manage their tasks efficiently. The app is connected to a MongoDB database, ensuring that all boards, columns, tasks, and subtasks are assigned to the user's account. The backend is built with Express.js, making it my first backend project using this technology. The entire app is written in TypeScript, as part of my learning journey.
 
 <h3>Users can:</h3>
 <ul>
     <li>Create and manage boards with custom columns.</li>
+    <li>Track progress and organize work effectively.</li>
+    <li>Use a clean and modern UI, fully styled with Tailwind CSS.</li>
     <li>Add tasks with details like:</li>
     <ul><li>Deadline</li> <li>Status</li> <li>Priority</li> <li>Description</li> <li>Subtasks</li></ul>
     
-    <li>Create and manage boards with custom columns.</li>
 </ul>
 
-<h2>Run Boy Panel:</h2>
+<h2>Plan&Do Fronted:</h2>
 <ul>
-    <li><a href='https://github.com/WojtekJ98/Run-Boy-Panel'>Git Code</a></li>
-    <li><a href='https://run-boy-panel.vercel.app'>Live app</a>
+    <li><a href='https://github.com/WojtekJ98/Front-end-PlanAndDo'>Git Code</a></li>
+    <li><a href='https://plan-and-do-kappa.vercel.app/'>Live app</a>
 </li>
 </ul>
-<h2>Run Boy Front:</h2>
+<h2>Plan&Do Backend:</h2>
 <ul>
-    <li><a href='https://github.com/WojtekJ98/Run-Boy-Front'>Git Code</a></li>
-    <li><a href='https://run-boy-front.vercel.app'>Live app</a></li>
+    <li><a href='https://github.com/WojtekJ98/Back-end-PlanAndDo'>Git Code</a></li>
 </ul>
 
 
