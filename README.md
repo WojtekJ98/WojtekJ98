@@ -29,8 +29,8 @@ Plan&Do is a task management application that allows users to create accounts, l
 <ul>
     <li>Create and manage boards with custom columns.</li>
     <li>Add tasks with details like:</li>
-    <li><ul><li>Deadline</li></ul>
-    </li>
+    <ul><li>Deadline</li> <li>Status</li> <li>Priority</li> <li>Description</li> <li>Subtasks</li></ul>
+    
     <li>Create and manage boards with custom columns.</li>
 </ul>
 
